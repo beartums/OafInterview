@@ -33,10 +33,11 @@ You may use whatever development environment/language/framework you feel comfort
 You will be working with at least one member of the Dev team every day for a couple of hours, pair-programming the solution.  You will be driving.
 
 This interview is designed to assess:
-Your communication and critical-thinking style
-Your problem-solving skills and strategies
-Your ability to collaborate, when appropriate
-Your ability to make and execute a project plan
+
+* Your communication and critical-thinking style
+* Your problem-solving skills and strategies
+* Your ability to collaborate, when appropriate
+* Your ability to make and execute a project plan
 
 This is not primarily a coding test, though the quality of your code will have some relationship to the success of the pair coding time.  Your coding skills are peripheral at this point.  You do NOT have to present a completed project, but you will be expected to present a post mortem on what went well and what you would have changed, in hindsight, as well as an estimate of how much work remains to be done and possible ‘stretch goals’ for the project
 
