@@ -15,14 +15,15 @@ A positive adjustment associated with the client’s next season equal to the am
 If, however, the client does not have outstanding credit in another season, then no adjustment will be made. 
 ####Deliverables
 There are 2 deliverables for this project:
-1. A service class that will accept a list of (RepaymentUploads) client repayments and will determine which season the repayment should be applied to. An updated repayment list should be output (Repayments) with the correct repayment amount and season for each repayment as well as a list of any repayment adjustments that must be made. 
+
+1. A service class that will accept a list of (RepaymentUploads) client repayments and will determine which season the repayment should be applied to. An updated repayment list should be output (Repayments) with the correct repayment amount and season for each repayment as well as a list of any repayment adjustments that must be made.
 1. A project post-mortem, outlining at least:
-* Current project status
-* Successes/what went well
-* Bumps/what you wished went better
-* How you would improve these things in future projects
-* Estimate on the outstanding work
-* Improvements/enhancements for future consideration
+  * Current project status
+  * Successes/what went well
+  * Bumps/what you wished went better
+  * How you would improve these things in future projects
+  * Estimate on the outstanding work
+  * Improvements/enhancements for future consideration
 ####Additional Considerations
 You will be provided with sample data.  
 
