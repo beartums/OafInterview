@@ -43,33 +43,33 @@ This is not primarily a coding test, though the quality of your code will have s
 
 ###Data Schema
 ####Seasons
-  SeasonID (int)
-  SeasonName (string)
-  StartDate (date)
-  EndDate (date)
+  SeasonID (int)  
+  SeasonName (string)  
+  StartDate (date)  
+  EndDate (date)  
 
 ####Customers
-  CustomerID (int)
-  CustomerName (string)
+  CustomerID (int)  
+  CustomerName (string)  
 
 ####CustomerSummaries
-  CustomerID (int)
-  SeasonID (int)
-  Credit (dec)
-  TotalRepaid (dec)
+  CustomerID (int)  
+  SeasonID (int)  
+  Credit (dec)  
+  TotalRepaid (dec)  
 
 ####RepaymentUploads
-  CustomerID (int)
-  SeasonID (int; optional)
-  Date (date)
-  Amount (dec)
-  RepaymentID (int)
+  CustomerID (int)  
+  SeasonID (int; optional)  
+  Date (date)  
+  Amount (dec)  
+  RepaymentID (int)  
 
 ####Repayments (OUTPUT)
-  CustomerID (int)
-  SeasonID (int)
-  Date (date)
-  Amount (dec)
-  RepaymentID (int)
-  ParentID (int)
+  CustomerID (int)  
+  SeasonID (int)  
+  Date (date)  
+  Amount (dec)  
+  RepaymentID (int)  
+  ParentID (int)  
 
